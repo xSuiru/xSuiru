@@ -117,14 +117,14 @@ Never Stop Learning
 
 ---
 
-# 📊 GITHUB ANALYTICS
+## 📊 GitHub Analytics
 
 <p align="center">
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api?username=thivinaabhishek&show_icons=true&theme=chartreuse-dark&hide_border=true&cache_seconds=1800"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=MrThivina&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrThivina&layout=compact&theme=chartreuse-dark&hide_border=true"/>
-
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=thivinaabhishek&layout=compact&theme=chartreuse-dark&hide_border=true"/>
 </p>
 
 ---
