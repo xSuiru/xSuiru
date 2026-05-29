@@ -1,23 +1,177 @@
-<!-- Hacker-style banner -->
-<h1 align="center">Hi 👋, I'm [Thivina]</h1>
-<h3 align="center">💻 Computer Science Student | 🔐 Cybersecurity Enthusiast</h3>
+<div align="center">
+
+# ⚡ THIVINA ABHISHEK ⚡
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2500&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines=Cybersecurity+Enthusiast;Ethical+Hacker+in+Training;Linux+Power+User;Future+Security+Engineer;Always+Learning..." />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=CYBERSECURITY&fontAlign=50&fontAlignY=35&color=0:000000,100:00ff00"/>
+
+</div>
+
+---
+
+# 💻 SYSTEM INFORMATION
+
+```bash
+root@github:~# fetch user
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+👤 Name      :: Thivina Abhishek
+🎓 Degree    :: Computer Science
+🌍 Country   :: Sri Lanka
+🔐 Focus     :: Cybersecurity
+🐧 OS        :: Linux
+🚀 Goal      :: Security Engineer
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+---
+
+# 🧠 THREAT ANALYSIS
+
+```yaml
+Target:
+  Name: Thivina Abhishek
+
+Current_Objectives:
+  - Learn Ethical Hacking
+  - Master Linux
+  - Improve Networking Skills
+  - Build Security Tools
+  - Earn Bug Bounties
+
+Threat_Level:
+  Curiosity: ████████████████████ 100%
+  Learning:  ████████████████████ 100%
+  Coffee:    ████████████████░░░░ 80%
+  Sleep:     ███░░░░░░░░░░░░░░░░░ 15%
+```
+
+---
+
+# ⚔️ TECH STACK
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,dart,flutter,linux,bash,mysql,git,github,vscode,firebase"/>
+
+</div>
+
+---
+
+# 🔥 CYBERSECURITY ROADMAP
+
+```text
+Networking          ██████████░░░░░░░░░░░ 50%
+
+Linux               ███████████████░░░░░ 75%
+
+Web Security        █████████░░░░░░░░░░░ 45%
+
+Bug Bounty          ██████░░░░░░░░░░░░░░ 30%
+
+Programming         ████████████░░░░░░░░ 60%
+
+Cloud Security      ███░░░░░░░░░░░░░░░░░ 15%
+```
+
+---
+
+# 🚀 ACTIVE MISSIONS
+
+```bash
+[✓] Learn Java Fundamentals
+
+[✓] Learn Linux Commands
+
+[✓] Build Flutter Projects
+
+[ ] First Bug Bounty Reward
+
+[ ] Create Python Security Toolkit
+
+[ ] Publish Security Research
+
+[ ] Reach Top 1% on Labs
+```
+
+---
+
+# 📡 SECURITY TERMINAL
+
+```bash
+root@security:~# status
+
+SYSTEM STATUS: ONLINE
+
+Cybersecurity Skills ..... LOADING
+Networking Knowledge ..... LOADING
+Linux Mastery ............ LOADING
+Bug Bounty Experience .... LOADING
+
+Estimated Completion:
+Never Stop Learning
+```
+
+---
+
+# 📊 GITHUB ANALYTICS
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&lines=Learning+Cybersecurity;Future+Ethical+Hacker;Linux+Explorer;Always+Learning..." />
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=chartreuse-dark&hide_border=true"/>
+
 </p>
 
 ---
 
-## 🧠 About Me
+# 🔥 CONTRIBUTION STREAK
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=chartreuse-dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 ACHIEVEMENTS
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=matrix&no-frame=true&row=1&column=7"/>
+
+</p>
+
+---
+
+# 🕶️ CYBER QUOTE
+
 ```bash
-> whoami
-[Thivina Abhishek]
+while(alive){
+    learn();
+    build();
+    secure();
+    repeat();
+}
+```
 
-> interests
-Cybersecurity | Networking | Linux | Ethical Hacking
+---
 
-> current_status
-Learning and building skills in Computer Science & Security
+<div align="center">
 
-> goal
-Become a Cybersecurity Specialist 💀
+## ☠️ DIGITAL FOOTPRINT
+
+"Security is not a product, but a process."
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=00ff00&style=for-the-badge"/>
+
+</div>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:000000,100:00ff00"/>
