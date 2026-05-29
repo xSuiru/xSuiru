@@ -29,27 +29,6 @@ root@github:~# fetch user
 
 ---
 
-# 🧠 THREAT ANALYSIS
-
-```yaml
-Target:
-  Name: Thivina Abhishek
-
-Current_Objectives:
-  - Learn Ethical Hacking
-  - Master Linux
-  - Improve Networking Skills
-  - Build Security Tools
-  - Earn Bug Bounties
-
-Threat_Level:
-  Curiosity: ████████████████████ 100%
-  Learning:  ████████████████████ 100%
-  Coffee:    ████████████████░░░░ 80%
-  Sleep:     ███░░░░░░░░░░░░░░░░░ 15%
-```
-
----
 
 # ⚔️ TECH STACK
 
@@ -61,23 +40,6 @@ Threat_Level:
 
 ---
 
-# 🔥 CYBERSECURITY ROADMAP
-
-```text
-Networking          ██████████░░░░░░░░░░░ 50%
-
-Linux               ███████████████░░░░░ 75%
-
-Web Security        █████████░░░░░░░░░░░ 45%
-
-Bug Bounty          ██████░░░░░░░░░░░░░░ 30%
-
-Programming         ████████████░░░░░░░░ 60%
-
-Cloud Security      ███░░░░░░░░░░░░░░░░░ 15%
-```
-
----
 
 # 🚀 ACTIVE MISSIONS
 
@@ -117,18 +79,6 @@ Never Stop Learning
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="180em"
-       src="https://github-readme-stats.vercel.app/api?username=MrThivina&show_icons=true&theme=chartreuse-dark&hide_border=true&cache_seconds=1800"/>
-
-  <img height="180em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrThivina&layout=compact&theme=chartreuse-dark&hide_border=true"/>
-</p>
-
----
-
 ## 🔥 GitHub Activity
 
 <p align="center">
@@ -142,28 +92,7 @@ Never Stop Learning
 
 ---
 
-# 🏆 ACHIEVEMENTS
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=MrThivina&theme=matrix&no-frame=true&row=1&column=7"/>
-
-</p>
-
----
-
-# 🕶️ CYBER QUOTE
-
-```bash
-while(alive){
-    learn();
-    build();
-    secure();
-    repeat();
-}
-```
-
----
 
 <div align="center">
 
