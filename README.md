@@ -85,10 +85,6 @@ Never Stop Learning
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MrThivina&theme=github-dark&hide_border=true&bg_color=000000&color=00ff00&line=00ff00&point=00ff00" width="100%"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MrThivina&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrThivina&layout=compact&theme=chartreuse-dark&hide_border=true" height="180"/>
-</p>
 
 ---
 
