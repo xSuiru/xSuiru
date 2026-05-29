@@ -82,7 +82,7 @@ Never Stop Learning
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=MrThivina&theme=chartreuse-dark&hide_border=true"/>
+  <img width="100%" src="https://streak-stats.demolab.com?user=MrThivina&theme=chartreuse-dark&hide_border=true"/>
 </p>
 
 <div align="center">
