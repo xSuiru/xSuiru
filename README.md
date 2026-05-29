@@ -79,12 +79,6 @@ Never Stop Learning
 
 ---
 
-## 🔥 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MrThivina&theme=github-dark&hide_border=true&bg_color=000000&color=00ff00&line=00ff00&point=00ff00" width="100%"/>
-</p>
-
 ## 📊 GitHub Statistics
 
 <p align="center">
