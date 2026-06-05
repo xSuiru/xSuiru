@@ -94,5 +94,3 @@ Never Stop Learning
 </div>
 
 ---
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:000000,100:00ff00"/>
