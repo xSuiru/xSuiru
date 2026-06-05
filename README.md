@@ -4,8 +4,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2500&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines=Cybersecurity+Enthusiast;Ethical+Hacker+in+Training;Linux+Power+User;Future+Security+Engineer;Always+Learning..." />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=CYBERSECURITY&fontAlign=50&fontAlignY=35&color=0:000000,100:00ff00"/>
-
 </div>
 
 ---
