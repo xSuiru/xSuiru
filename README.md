@@ -28,7 +28,7 @@ root@github:~# fetch user
 ---
 <div align="center">
 
-#⚔️ TECH STACK
+⚔️ TECH STACK
 
 </div>
 
