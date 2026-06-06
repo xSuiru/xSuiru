@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ THIVINA ABHISHEK ⚡
+#  THIVINA ABHISHEK
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2500&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines=Cybersecurity+Enthusiast;Ethical+Hacker+in+Training;Linux+Power+User;Future+Security+Engineer;Always+Learning..." />
 
