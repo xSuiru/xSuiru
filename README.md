@@ -185,7 +185,7 @@ Current Mission:
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=MrThivina&color=blueviolet&style=for-the-badge)
 
 ### Thanks for visiting my profile 💜
 
