@@ -167,7 +167,7 @@ Current Mission:
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/MrThivina">
 <img src="https://img.shields.io/badge/GitHub-Follow-8A2BE2?style=for-the-badge" />
 </a>
 
