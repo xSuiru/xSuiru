@@ -1,98 +1,192 @@
 <div align="center">
 
-#  THIVINA ABHISHEK
+# 👋 Hey, I'm Thivina
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2500&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines=Cybersecurity+Enthusiast;Ethical+Hacker+in+Training;Linux+Power+User;Future+Security+Engineer;Always+Learning..." />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&random=false&width=600&lines=Cybersecurity+Enthusiast;Full-Stack+Developer;AI+Builder;Bug+Bounty+Hunter;Open+Source+Contributor" />
 
-</div>
-
----
-
-# 💻 SYSTEM INFORMATION
-
-```bash
-root@github:~# fetch user
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-👤 Name      :: Thivina Abhishek
-🎓 Degree    :: Computer Science
-🌍 Country   :: Sri Lanka
-🔐 Focus     :: Cybersecurity
-🐧 OS        :: Linux
-🚀 Goal      :: Security Engineer
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
----
-<div align="center">
-
-⚔️ TECH STACK
-
-</div>
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,dart,flutter,linux,bash,mysql,git,github,vscode,firebase"/>
+### Building. Breaking. Learning. Improving.
 
 </div>
 
 ---
 
+## 📂 src/pages/AboutMe.tsx
 
-# 🚀 ACTIVE MISSIONS
+```typescript
+const thivina = {
+  name: "Thivina",
+  role: "Software Developer & Security Researcher",
+  location: "Sri Lanka",
+  interests: [
+    "Cybersecurity",
+    "Bug Bounty Hunting",
+    "Artificial Intelligence",
+    "Full Stack Development",
+    "Cloud Computing"
+  ],
 
-```bash
-[✓] Learn Java Fundamentals
+  currentlyWorkingOn: [
+    "GitReverse",
+    "ReverseMap",
+    "Travel AI Platform"
+  ],
 
-[✓] Learn Linux Commands
+  learning: [
+    "Advanced Web Security",
+    "API Security",
+    "Cloud Security",
+    "AI Engineering"
+  ],
 
-[✓] Build Flutter Projects
-
-[ ] First Bug Bounty Reward
-
-[ ] Create Python Security Toolkit
-
-[ ] Publish Security Research
-
-[ ] Reach Top 1% on Labs
+  motto: "Build useful things. Learn continuously."
+}
 ```
 
 ---
 
-# 📡 SECURITY TERMINAL
-
-```bash
-root@security:~# status
-
-SYSTEM STATUS: ONLINE
-
-Cybersecurity Skills ..... LOADING
-Networking Knowledge ..... LOADING
-Linux Mastery ............ LOADING
-Bug Bounty Experience .... LOADING
-
-Estimated Completion:
-Never Stop Learning
-```
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img width="100%" src="https://streak-stats.demolab.com?user=MrThivina&theme=chartreuse-dark&hide_border=true"/>
-</p>
+## 📂 src/pages/TechStack.tsx
 
 <div align="center">
 
-## ☠️ DIGITAL FOOTPRINT
+### Languages
 
-"Security is not a product, but a process."
+<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,bash" />
 
-<img src="https://komarev.com/ghpvc/?username=MrThivina&color=00ff00&style=for-the-badge"/>
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi" />
+
+### Databases
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,supabase" />
+
+### Cloud & DevOps
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,vercel,githubactions" />
+
+### Security & Tools
+
+<img src="https://skillicons.dev/icons?i=linux,git,github,cloudflare" />
 
 </div>
 
 ---
+
+## 📂 src/pages/Projects.tsx
+
+| 🚀 Project | Description |
+|-----------|-------------|
+| GitReverse | Reverse engineer GitHub repositories and technologies |
+| ReverseMap | Website technology & infrastructure discovery tool |
+| TravelAI | AI-powered travel recommendation platform |
+| CafeManager | Business management system for cafes |
+| Personal Agent | AI assistant platform |
+
+---
+
+## 📂 src/pages/Focus.tsx
+
+```yaml
+2026 Goals:
+
+- Launch SaaS products
+- Earn bug bounty rewards
+- Contribute to open source
+- Build AI-powered tools
+- Master cloud security
+```
+
+---
+
+## 📂 src/pages/Stats.tsx
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+
+</div>
+
+---
+
+## 📂 src/pages/ContributionGraph.tsx
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)
+
+</div>
+
+---
+
+## 📂 src/pages/WhoAmI.tsx
+
+```bash
+whoami
+
+> Thivina
+
+Role:
+├── Software Developer
+├── Security Researcher
+├── AI Builder
+└── Problem Solver
+
+Current Mission:
+└── Building tools that make technology
+    easier, smarter and more secure.
+```
+
+---
+
+## 📂 src/pages/Achievements.tsx
+
+🏆 Highlights
+
+- 🔒 Cybersecurity Enthusiast
+- 🎯 Aspiring Bug Bounty Hunter
+- 🤖 AI Application Builder
+- 💻 Full Stack Developer
+- 🚀 Open Source Contributor
+- 📚 Continuous Learner
+
+---
+
+## 📂 src/pages/Quote.tsx
+
+> "The best way to predict the future is to build it."
+
+---
+
+## 📂 src/pages/ContactMe.tsx
+
+<div align="center">
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-Follow-8A2BE2?style=for-the-badge" />
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-8A2BE2?style=for-the-badge" />
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-Contact-8A2BE2?style=for-the-badge" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=for-the-badge)
+
+### Thanks for visiting my profile 💜
+
+</div>
