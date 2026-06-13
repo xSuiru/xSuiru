@@ -39,12 +39,12 @@ Improve   One project and one challenge at a time
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=xSuiru&show_icons=true&theme=tokyonight&hide_border=true" alt="Thivina's GitHub stats" />
-<img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=xSuiru&layout=compact&theme=tokyonight&hide_border=true" alt="Thivina's most used languages" />
+<img width="420" height="180" src="https://github-readme-stats-fast.vercel.app/api?username=xSuiru&show_icons=true&theme=tokyonight&hide_border=true" alt="Thivina's GitHub stats" />
+<img width="420" height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=xSuiru&layout=compact&theme=tokyonight&hide_border=true" alt="Thivina's most used languages" />
 
 <br />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=xSuiru&theme=tokyonight&hide_border=true" alt="Thivina's GitHub streak" />
+<img width="420" height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=xSuiru&theme=tokyonight&hide_border=true" alt="Thivina's GitHub streak" />
 
 </div>
 
