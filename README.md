@@ -44,8 +44,6 @@ Improve   One project and one challenge at a time
 
 <br />
 
-<img width="420" height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=xSuiru&theme=tokyonight&hide_border=true" alt="Thivina's GitHub streak" />
-
 </div>
 
 ---
