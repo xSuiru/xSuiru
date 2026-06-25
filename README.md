@@ -27,14 +27,6 @@ Explore   Linux, automation, and artificial intelligence
 Improve   One project and one challenge at a time
 ```
 
-## Tech Stack
-
-<div align="center">
-
-![Tech Stack](https://skillicons.dev/icons?i=python,java,dart,flutter,js,ts,react,nodejs,linux,bash,mysql,firebase,git,github,docker,vscode&perline=8)
-
-</div>
-
 ## GitHub Analytics
 
 <div align="center">
